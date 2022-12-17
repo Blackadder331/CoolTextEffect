@@ -1,0 +1,11 @@
+:root {
+    --purple: rgb(123, 31, 162);
+    --viloet: rgb(103, 58, 183);
+    --pink: rgb(244,143,177);
+}
+
+body {
+    background-color: rgb(10, 10, 10);
+    margin: 0px;
+    overflow: hidden;
+}
